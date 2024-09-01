@@ -11,7 +11,7 @@
 
 
 ### Brewery is a Plugin for an alternate brewing process, including alcoholic Potions.
-
+s
 Works with Spigot, Paper, and Folia from `1.21.1` to `1.8.x`!
 
 The somewhat difficult brewing process rewards you with a diversity of Potions, which, through their effects, create a drunkenness that has never existed in Minecraft before.
